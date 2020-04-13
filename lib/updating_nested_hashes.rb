@@ -59,7 +59,7 @@ def add_characters
    #   - The first hash should have the :name key set to "Prince Escalus" 
    #   - The second hash should have the :name key set to "Apothecary" 
    # Code your solution here:
-#Add a key on the same nesting as 
+#Add a key on the same nesting as montague & 
 epic_tragedy[:additional_characters]
 
 
