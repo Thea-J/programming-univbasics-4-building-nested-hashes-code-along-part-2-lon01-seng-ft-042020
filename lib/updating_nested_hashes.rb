@@ -61,6 +61,9 @@ def add_characters
    # Code your solution here:
    
 #Add a key on the same level nesting as montague & capulet
+#It's value is an array
+#In the array are 2 hashes, both with a key :name
+#Add string values to these keys
 epic_tragedy[:additional_characters] = [
   {name: "Prince Escalus"},
   {name: "Apothecary"}
