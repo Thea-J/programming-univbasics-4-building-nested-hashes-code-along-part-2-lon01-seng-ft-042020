@@ -63,7 +63,7 @@ def add_characters
 #Add a key on the same level nesting as montague & capulet
 epic_tragedy[:additional_characters] = [
   {name: "Prince Escalus"},
-  {name: ""}
+  {name: "Apothecary"}
   ]
 
 
