@@ -61,7 +61,10 @@ def add_characters
    # Code your solution here:
    
 #Add a key on the same level nesting as montague & capulet
-epic_tragedy[:additional_characters] = 
+epic_tragedy[:additional_characters] = [
+  {},
+  {}
+  ]
 
 
 
